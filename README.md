@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on React Native and Web3<br>I'm a final year engineering student and i also have experience in MERN stack<br>
+I'm currently working on React Native and Web3<br><br>
 
 
 ## 🌐 Socials:
