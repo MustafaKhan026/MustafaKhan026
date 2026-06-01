@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on React Native and Web3<br><br>
+I'm currently working on React Native and AI<br><br>
 
 
 ## 🌐 Socials:
